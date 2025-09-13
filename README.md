@@ -1,7 +1,7 @@
 # NAME : BLESSING JEFFREY YL
 # REG NO : 212223220014
 
-# Ex-02 InformationGathering
+# Ex-02 Information Gathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
@@ -76,16 +76,16 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ### Whois
-<img width="911" height="738" alt="479586245-5738181c-dce0-458c-8b42-afe9500d3663" src="https://github.com/user-attachments/assets/ece0be13-fcbb-4a9c-898e-a73a596893fe" />
+<img width="1907" height="866" alt="image" src="https://github.com/user-attachments/assets/d1163da3-1d01-45de-93c6-1ab11a4c2d70" />
 
 ### Finding Hosting Company :
-<img width="1617" height="847" alt="479586075-785c5332-534a-4754-85d0-645e2ecb075e" src="https://github.com/user-attachments/assets/3419c66f-6e12-4fe7-9677-e5636dd9520c" />
+<img width="1917" height="833" alt="image" src="https://github.com/user-attachments/assets/31957dbf-5eed-4c74-817f-24c6fef63d47" />
 
 ### History of the website :
-<img width="1919" height="922" alt="479588035-3fd65f7b-6a24-41dc-b8b5-f1aee477132a" src="https://github.com/user-attachments/assets/87be68bf-ab41-4d29-8661-c529d7ec62ef" />
+<img width="1918" height="836" alt="image" src="https://github.com/user-attachments/assets/4fa62c17-c909-4e5e-9559-6ce61cb13472" />
 
 ### ping command :
-<img width="735" height="694" alt="479587484-354b4935-5a03-4c5f-8637-b7b749d157a4" src="https://github.com/user-attachments/assets/4920cc03-d192-421b-9ee0-46b06693150f" />
+<img width="1048" height="950" alt="image" src="https://github.com/user-attachments/assets/fee0e791-c179-415e-96d1-d053bd5e8fe6" />
 
 ### whois :
 <img width="760" height="742" alt="479588652-79694cd4-c12c-4d63-b313-913e1506a733" src="https://github.com/user-attachments/assets/09b65619-0ca7-440e-b4a5-f8ec6808ffff" />
